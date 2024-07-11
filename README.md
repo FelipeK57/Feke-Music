@@ -5,6 +5,7 @@ Bot de discord de musica para escuchar en canal de voz.
 # .Comando !pause
 # .Comando !resume
 # .Comando !stop
+# Colas por ahora inhabilitadas!
 # Imagenes del bot en el servidor de discord
 # Server unido en el server
 ![imagen](images/i1.png)
